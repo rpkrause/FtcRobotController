@@ -10,7 +10,7 @@ import org.firstinspires.ftc.teamcode.drive.DriveConstants;
 import org.firstinspires.ftc.teamcode.drive.SampleMecanumDrive;
 import org.firstinspires.ftc.teamcode.util.VerticalArm;
 
-@Autonomous(name="Two Sample Hang", group = "opMode")
+@Autonomous(name="Two Sample Hang Old", group = "opMode")
 public class MultiHang extends LinearOpMode{
 
     @Override
